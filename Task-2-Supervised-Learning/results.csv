@@ -1,0 +1,6 @@
+Rank,Model,Accuracy,Precision,Recall,F1
+1,Decision Tree,0.8505,0.736,0.5798,0.6486
+2,SVM (RBF),0.8548,0.7669,0.5599,0.6472
+3,Logistic Regression,0.8498,0.7349,0.5767,0.6463
+4,K-Nearest Neighbors,0.8452,0.7148,0.5819,0.6416
+5,Naive Bayes,0.406,0.2823,0.9695,0.4372
